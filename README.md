@@ -31,7 +31,7 @@ If you would like to quickly test out the app on a public domain without dealing
 
 If the video stutters or freezes, it's probably due to the slow upload speeds given by your ISP.
 
-The live demo of this repo can be viewed from here [demo](https://boiling-meadow-66415.herokuapp.com/)
+The live demo of this repo can be viewed from here [demo](https://intense-inlet-89405.herokuapp.com/)
 ## License
 
 The MIT License (MIT) Copyright (c)
