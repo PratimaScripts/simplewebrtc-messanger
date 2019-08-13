@@ -1,7 +1,7 @@
 const express = require('express');
 
 const app = express();
-const port = 3000;
+const port = process.env.YOUR_PORT || process.env.PORT || 80;
 
 // Set public folder as root
 app.use(express.static('public'));
